@@ -4,6 +4,18 @@
 
 we have the nice menue you can check it.. and i hope you will enjoy it ^^
 
+#### our list is :
+
+Appetizers:
+
+1. sald
+2. pickle
+3. Cucumber with yoghurt
+4. yoghurt
+5. A plate of olives
+
+Main dishes:
+
 1. mansaf 
  This type of food is simply milk, rice and meat
 
@@ -25,6 +37,18 @@ we have the nice menue you can check it.. and i hope you will enjoy it ^^
 
 This dish is originally an Egyptian dish, but recently you may find it in several countries such as the Levant and others
  ![](https://modo3.com/thumbs/fit630x300/45188/1566802829/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9_%D8%B9%D9%85%D9%84_%D8%A7%D9%84%D9%85%D9%84%D9%88%D8%AE%D9%8A%D8%A9.jpg)
+
+
+juices:
+
+1. Strawberry juice
+2. Lemon juice
+3. Orange juice
+4. grape juice
+5. cocktail juice
+6. water
+7. Pepsi
+ 
 
 
  [Click here contact us](https://www.facebook.com/mhyy.aldyn.9).
