@@ -1,3 +1,68 @@
-.the-header {
-    background-color: red;
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: gold;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+.header h1 {
+    font-family: 'Righteous', cursive;
+}
+
+.header ul {
+    display: flex;
+    gap: 30px;
+}
+
+.header ul li {
+    list-style: none;
+}
+
+.header ul li a {
+    text-decoration: none;
+    font-family: 'Bruno Ace SC', cursive;
+}
+
+.main {
+    background-color: gold;
+    padding-bottom: 100px;
+}
+
+.main .photos {
+    display: flex;
+    gap: 20px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
+
+.main .menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+.main .menu :hover {
+    cursor: pointer;
+}
+
+.main h1 {
+    display: flex;
+    width: 1000px;
+    font-family: 'Lilita One', cursive;
+    margin: auto;
+}
+
+
+.foter {
+    background-color: gold;
+    padding: 20px;
 }
